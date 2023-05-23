@@ -1,3 +1,9 @@
+# React Login Page with Firebase
+
+# AIRBLINK Task
+
+This is a mini project that demonstrates a login page built with React and integrated with Firebase authentication.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
